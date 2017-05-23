@@ -1,0 +1,25 @@
+SKILLS TO QUANTIFY:
+
+OFFENSE:
+Iso scoring()
+Catch and Shoot()
+Post-up impact()
+Play-making()
+Penetration()
+PnR Roll-Man()
+PnR Ball-Handler()
+Cutting()
+Offensive Rebounding + Putbacks()
+
+DEFENSE:
+Rim Protection()
+Iso Defense()
+Help Defense()
+Rebounding()
+
+
+OTHER:
+'Hustle'()
+Transition Offense()
+Transition Defense()
+'3 & D Quotient'()

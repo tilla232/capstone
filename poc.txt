@@ -1,0 +1,26 @@
+'How to Win Games in the NBA' <-very much a working title
+
+It has been known for years now that the traditional position-paradigm in the NBA (PG,SG,SF,PF,C) is insufficient, to say the least, in describing and categorizing the roles and responsibilities of NBA players.  My initial inspiration for this project was a well-known 2012 presentation from MIT's annual Sloan Sports Analytics conference, in which Muthu Alagappan argued that the number of actual positions in the NBA is 13, as opposed to the traditional 5, using topological analysis to make a convincing argument.
+
+Alagappan's analysis fell short, for me, in a couple ways - first: the actual positions he defines; ie, how he clustered players with his model.
+
+It can't be denied that his model did an admirable job creating well-defined, separable clusters of players, but the problem lies in the lack of meaning imparted by a number of these positions.  There is one position simply titled 'role player', which looks to contain roughly the same number of players as six of the other positions COMBINED.  The term 'role player' provides no sense of meaning or context about a player's game, or how they could potentially fit into a given team.  I took similar issue with the categories 'all-nba first team', 'all-nba second team', and 'one-of-a-kind', all of which do more to describe a player's perceived relative worth among his peers, as opposed to what he does on the basketball court.
+
+My next problem was what I perceived to be a lack of focus-driven analysis -  what can we learn, now that we have these (allegedly) more accurately-defined positions?!  How do certain distributions of certain positions correlate to winning, or a lack thereof?  What roles do we want our best players to occupy?  Ultimately: is there a winning formula, and, out of curiosity, how has that formula changed over the years?
+
+These issues inspired me to undertake a similar analysis, with the end goals being: 1)determine how, if at all, NBA players' roles have changed over time, and 2)attempt to concoct a winning formula from these roles, and apply that formula in writing python scripts that can recommend players a team should target in free agency or via trades.
+--------------------------------------------------------------------------------
+METHODS
+
+1. Defining Positions
+A quick google search tells us that this is a task already attempted by a million-and-one analysts, a few of whom also presented at Sloan, like Alagappan.  While the overarching methodology is similar from one analysis to the next, things start to differ quite noticeably when you examine them at a more granular level.
+
+Ultimately, I aim for the features of my clustering model to be succinct, accurate metrics of how well a player performs in a certain area of the game.  Individual statistics are part of this puzzle, but, in almost all areas, one stat by itself will not suffice.  Block percentage is a fine statistic, but certainly not enough in and of itself to quantify a player's ability as a rim protector.  We would want to incorporate things like defFG% at the rim, shots altered, and defREB% to get a more complete idea of how the player is actually performing and protecting the rim.
+
+After finalizing my feature space, and the quantification of each of the features, my goal is to effectively cluster the data.  This involves experimenting with a number of unsupervised clustering methods (DBSCAN, Affinity Propagation, Birch, etc etc.), tuning the parameters to effectively separate clusters, and using different k-folds of the data to show we can achieve the same clusters with different subsets of players training the model.
+
+Upon satisfaction with my clusters for each of the last n seasons (n TBD...), I will use a number of EDA methods to attempt to find patterns between role distributions and winningness.  This can range from things as simple as linear regression with target = number of games won in regular season + playoffs, to more complicated models like random forest regression/classification, gradient boosting regression/classification, etc.
+
+When I am satisfied that I have found a model that predicts a team's wins and/or whether or not they can contend for a championship, I can use this model to assess the needs of each team, and use those needs to produce a list of players to target in upcoming free agency, or even players to target in trades.  It might be a little beyond me to produce hypothetical trades, but that would be an even more impressive addition to the project.
+
+The aims of this project are twofold: both 1) exploratory/empirical - like Alagappan, my passion for the game and understanding its ins and outs drive my desire to define the "true" basketball positions found in the NBA, and 2) regression/classification - at the same time, and as fun as learning for learning's sake is, I want to be able to use my model to accurately gauge what will make an NBA team better on the court.
