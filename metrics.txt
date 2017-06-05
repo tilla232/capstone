@@ -1,3 +1,31 @@
+AVAILABLE STATS:
+(bbref)
+PER
+3PAr
+For
+ORB%
+DRB%
+TRB%
+AST%
+STL%
+BLK%
+TOV%
+USG%
+Ortg
+Drtg
+OWS
+DWS
+WS/48
+OBPM
+DBPM
+BPM
+VORP
+
+(probbapi)
+
+
+
+
 SKILLS TO QUANTIFY:
 
 OFFENSE:

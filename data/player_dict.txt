@@ -1,0 +1,1833 @@
+(dp1
+S'David West'
+p2
+cnumpy.core.multiarray
+scalar
+p3
+(cnumpy
+dtype
+p4
+(S'i8'
+I0
+I1
+tRp5
+(I3
+S'<'
+NNNI-1
+I-1
+I0
+tbS'\x01\n\x00\x00\x00\x00\x00\x00'
+tRp6
+sS'Wayne Ellington'
+p7
+g3
+(g5
+S'\xe9\x14\x03\x00\x00\x00\x00\x00'
+tRp8
+sS'Pau Gasol'
+p9
+g3
+(g5
+S'\x98\x08\x00\x00\x00\x00\x00\x00'
+tRp10
+sS'Mason Plumlee'
+p11
+g3
+(g5
+S'\xde\x1a\x03\x00\x00\x00\x00\x00'
+tRp12
+sS'Jeremy Lamb'
+p13
+g3
+(g5
+S'O\x19\x03\x00\x00\x00\x00\x00'
+tRp14
+sS'Willie Reed'
+p15
+g3
+(g5
+S'\xb2\x19\x03\x00\x00\x00\x00\x00'
+tRp16
+sS'Matt Barnes'
+p17
+g3
+(g5
+S'\x88\t\x00\x00\x00\x00\x00\x00'
+tRp18
+sS'Rajon Rondo'
+p19
+g3
+(g5
+S'=\x10\x03\x00\x00\x00\x00\x00'
+tRp20
+sS'Justin Hamilton'
+p21
+g3
+(g5
+S'p\x19\x03\x00\x00\x00\x00\x00'
+tRp22
+sS'Luke Babbitt'
+p23
+g3
+(g5
+S'a\x16\x03\x00\x00\x00\x00\x00'
+tRp24
+sS'Kelly Oubre'
+p25
+g3
+(g5
+S'2\xd0\x18\x00\x00\x00\x00\x00'
+tRp26
+sS'Randy Foye'
+p27
+g3
+(g5
+S'/\x10\x03\x00\x00\x00\x00\x00'
+tRp28
+sS'Iman Shumpert'
+p29
+g3
+(g5
+S'\xc9\x17\x03\x00\x00\x00\x00\x00'
+tRp30
+sS'LaMarcus Aldridge'
+p31
+g3
+(g5
+S'*\x10\x03\x00\x00\x00\x00\x00'
+tRp32
+sS'Tyler Ulis'
+p33
+g3
+(g5
+S'k\xd6\x18\x00\x00\x00\x00\x00'
+tRp34
+sS'Draymond Green'
+p35
+g3
+(g5
+S'f\x19\x03\x00\x00\x00\x00\x00'
+tRp36
+sS'Kyle Lowry'
+p37
+g3
+(g5
+S'@\x10\x03\x00\x00\x00\x00\x00'
+tRp38
+sS'John Henson'
+p39
+g3
+(g5
+S'Q\x19\x03\x00\x00\x00\x00\x00'
+tRp40
+sS'Jared Dudley'
+p41
+g3
+(g5
+S'\xca\x11\x03\x00\x00\x00\x00\x00'
+tRp42
+sS'Raymond Felton'
+p43
+g3
+(g5
+S'\xf5\x8a\x01\x00\x00\x00\x00\x00'
+tRp44
+sS'John Wall'
+p45
+g3
+(g5
+S'R\x16\x03\x00\x00\x00\x00\x00'
+tRp46
+sS'Solomon Hill'
+p47
+g3
+(g5
+S'\x04\x1b\x03\x00\x00\x00\x00\x00'
+tRp48
+sS'Chris Paul'
+p49
+g3
+(g5
+S'\xf4\x8a\x01\x00\x00\x00\x00\x00'
+tRp50
+sS'Marcus Smart'
+p51
+g3
+(g5
+S'\x9f\x1c\x03\x00\x00\x00\x00\x00'
+tRp52
+sS'Tim Frazier'
+p53
+g3
+(g5
+S'\xf9\x1c\x03\x00\x00\x00\x00\x00'
+tRp54
+sS'Kevin Love'
+p55
+g3
+(g5
+S'_\x13\x03\x00\x00\x00\x00\x00'
+tRp56
+sS'Ish Smith'
+p57
+g3
+(g5
+S'\x9d\x16\x03\x00\x00\x00\x00\x00'
+tRp58
+sS'Kemba Walker'
+p59
+g3
+(g5
+S'\xc1\x17\x03\x00\x00\x00\x00\x00'
+tRp60
+sS'JJ Redick'
+p61
+g3
+(g5
+S'3\x10\x03\x00\x00\x00\x00\x00'
+tRp62
+sS'Harrison Barnes'
+p63
+g3
+(g5
+S'L\x19\x03\x00\x00\x00\x00\x00'
+tRp64
+sS'Trevor Booker'
+p65
+g3
+(g5
+S'h\x16\x03\x00\x00\x00\x00\x00'
+tRp66
+sS'Ryan Anderson'
+p67
+g3
+(g5
+S'o\x13\x03\x00\x00\x00\x00\x00'
+tRp68
+sS'Sam Dekker'
+p69
+g3
+(g5
+S'+\xd0\x18\x00\x00\x00\x00\x00'
+tRp70
+sS'Aaron Brooks'
+p71
+g3
+(g5
+S'\xce\x11\x03\x00\x00\x00\x00\x00'
+tRp72
+sS'DJ Augustin'
+p73
+g3
+(g5
+S'c\x13\x03\x00\x00\x00\x00\x00'
+tRp74
+sS"E'Twaun Moore"
+p75
+g3
+(g5
+S'\xee\x17\x03\x00\x00\x00\x00\x00'
+tRp76
+sS'Frank Kaminsky'
+p77
+g3
+(g5
+S'3\xd0\x18\x00\x00\x00\x00\x00'
+tRp78
+sS'Sergio Rodriguez'
+p79
+g3
+(g5
+S'C\x10\x03\x00\x00\x00\x00\x00'
+tRp80
+sS'DeAndre Liggins'
+p81
+g3
+(g5
+S'\xec\x17\x03\x00\x00\x00\x00\x00'
+tRp82
+sS'Joffrey Lauvergne'
+p83
+g3
+(g5
+S'\n\x1b\x03\x00\x00\x00\x00\x00'
+tRp84
+sS'Mike Conley'
+p85
+g3
+(g5
+S'\xb8\x11\x03\x00\x00\x00\x00\x00'
+tRp86
+sS'Dwyane Wade'
+p87
+g3
+(g5
+S'\xf4\t\x00\x00\x00\x00\x00\x00'
+tRp88
+sS'Serge Ibaka'
+p89
+g3
+(g5
+S'r\x13\x03\x00\x00\x00\x00\x00'
+tRp90
+sS'Corey Brewer'
+p91
+g3
+(g5
+S'\xbb\x11\x03\x00\x00\x00\x00\x00'
+tRp92
+sS'Carmelo Anthony'
+p93
+g3
+(g5
+S'\xf2\t\x00\x00\x00\x00\x00\x00'
+tRp94
+sS'Andrew Harrison'
+p95
+g3
+(g5
+S'&\xd0\x18\x00\x00\x00\x00\x00'
+tRp96
+sS'Isaiah Thomas'
+p97
+g3
+(g5
+S'\xf2\x17\x03\x00\x00\x00\x00\x00'
+tRp98
+sS'Jae Crowder'
+p99
+g3
+(g5
+S'e\x19\x03\x00\x00\x00\x00\x00'
+tRp100
+sS'James Ennis'
+p101
+g3
+(g5
+S'\xfc\x1a\x03\x00\x00\x00\x00\x00'
+tRp102
+sS'Spencer Hawes'
+p103
+g3
+(g5
+S'\xbe\x11\x03\x00\x00\x00\x00\x00'
+tRp104
+sS'Elfrid Payton'
+p105
+g3
+(g5
+S'}\x1c\x03\x00\x00\x00\x00\x00'
+tRp106
+sS'Marquese Chriss'
+p107
+g3
+(g5
+S'Y\xd6\x18\x00\x00\x00\x00\x00'
+tRp108
+sS'Michael Kidd-Gilchrist'
+p109
+g3
+(g5
+S'E\x19\x03\x00\x00\x00\x00\x00'
+tRp110
+sS'Paul Millsap'
+p111
+g3
+(g5
+S'Z\x10\x03\x00\x00\x00\x00\x00'
+tRp112
+sS'Jeff Teague'
+p113
+g3
+(g5
+S'\xe0\x14\x03\x00\x00\x00\x00\x00'
+tRp114
+sS'Avery Bradley'
+p115
+g3
+(g5
+S'd\x16\x03\x00\x00\x00\x00\x00'
+tRp116
+sS'Sean Kilpatrick'
+p117
+g3
+(g5
+S'\x9a\x1c\x03\x00\x00\x00\x00\x00'
+tRp118
+sS'Thabo Sefolosha'
+p119
+g3
+(g5
+S'5\x10\x03\x00\x00\x00\x00\x00'
+tRp120
+sS'Joe Johnson'
+p121
+g3
+(g5
+S'\x9f\x08\x00\x00\x00\x00\x00\x00'
+tRp122
+sS'Will Barton'
+p123
+g3
+(g5
+S'k\x19\x03\x00\x00\x00\x00\x00'
+tRp124
+sS'Kyle Korver'
+p125
+g3
+(g5
+S'"\n\x00\x00\x00\x00\x00\x00'
+tRp126
+sS'Spencer Dinwiddie'
+p127
+g3
+(g5
+S'\x8b\x1c\x03\x00\x00\x00\x00\x00'
+tRp128
+sS'Trevor Ariza'
+p129
+g3
+(g5
+S'\xd4\n\x00\x00\x00\x00\x00\x00'
+tRp130
+sS'Larry Nance'
+p131
+g3
+(g5
+S'\\\xd0\x18\x00\x00\x00\x00\x00'
+tRp132
+sS'Nik Stauskas'
+p133
+g3
+(g5
+S'\x8d\x1c\x03\x00\x00\x00\x00\x00'
+tRp134
+sS'Kris Dunn'
+p135
+g3
+(g5
+S'[\xd6\x18\x00\x00\x00\x00\x00'
+tRp136
+sS'Vince Carter'
+p137
+g3
+(g5
+S'\xb1\x06\x00\x00\x00\x00\x00\x00'
+tRp138
+sS'Jerami Grant'
+p139
+g3
+(g5
+S'\x94\x1c\x03\x00\x00\x00\x00\x00'
+tRp140
+sS'Rodney McGruder'
+p141
+g3
+(g5
+S'A\x1b\x03\x00\x00\x00\x00\x00'
+tRp142
+sS'DeMarcus Cousins'
+p143
+g3
+(g5
+S'V\x16\x03\x00\x00\x00\x00\x00'
+tRp144
+sS'Brandon Bass'
+p145
+g3
+(g5
+S'\x12\x8b\x01\x00\x00\x00\x00\x00'
+tRp146
+sS'Brandon Knight'
+p147
+g3
+(g5
+S'\xc0\x17\x03\x00\x00\x00\x00\x00'
+tRp148
+sS'Jakob Poeltl'
+p149
+g3
+(g5
+S'g\xd6\x18\x00\x00\x00\x00\x00'
+tRp150
+sS'Wilson Chandler'
+p151
+g3
+(g5
+S'\xcb\x11\x03\x00\x00\x00\x00\x00'
+tRp152
+sS'Jonathon Simmons'
+p153
+g3
+(g5
+S']\x1b\x03\x00\x00\x00\x00\x00'
+tRp154
+sS'Emmanuel Mudiay'
+p155
+g3
+(g5
+S' \xd0\x18\x00\x00\x00\x00\x00'
+tRp156
+sS'Julius Randle'
+p157
+g3
+(g5
+S'\xa8\x1c\x03\x00\x00\x00\x00\x00'
+tRp158
+sS'Kris Humphries'
+p159
+g3
+(g5
+S'\xb7\n\x00\x00\x00\x00\x00\x00'
+tRp160
+sS'Gorgui Dieng'
+p161
+g3
+(g5
+S'\xd4\x1a\x03\x00\x00\x00\x00\x00'
+tRp162
+sS'Marc Gasol'
+p163
+g3
+(g5
+S'\xe4\x11\x03\x00\x00\x00\x00\x00'
+tRp164
+sS'Tony Parker'
+p165
+g3
+(g5
+S'\xb1\x08\x00\x00\x00\x00\x00\x00'
+tRp166
+sS'Pascal Siakam'
+p167
+g3
+(g5
+S'\x87\xd6\x18\x00\x00\x00\x00\x00'
+tRp168
+sS'Richard Jefferson'
+p169
+g3
+(g5
+S'\xa2\x08\x00\x00\x00\x00\x00\x00'
+tRp170
+sS'Richaun Holmes'
+p171
+g3
+(g5
+S'.\xd0\x18\x00\x00\x00\x00\x00'
+tRp172
+sS'Cory Joseph'
+p173
+g3
+(g5
+S'\xd5\x17\x03\x00\x00\x00\x00\x00'
+tRp174
+sS'LeBron James'
+p175
+g3
+(g5
+S'\xf0\t\x00\x00\x00\x00\x00\x00'
+tRp176
+sS'JaMychal Green'
+p177
+g3
+(g5
+S'\xca\x19\x03\x00\x00\x00\x00\x00'
+tRp178
+sS'Brook Lopez'
+p179
+g3
+(g5
+S'd\x13\x03\x00\x00\x00\x00\x00'
+tRp180
+sS'Dwight Powell'
+p181
+g3
+(g5
+S'\xa3\x1c\x03\x00\x00\x00\x00\x00'
+tRp182
+sS'Nene'
+p183
+g3
+(g5
+S'c\t\x00\x00\x00\x00\x00\x00'
+tRp184
+sS'Damian Lillard'
+p185
+g3
+(g5
+S'I\x19\x03\x00\x00\x00\x00\x00'
+tRp186
+sS'Zach Randolph'
+p187
+g3
+(g5
+S'\xa8\x08\x00\x00\x00\x00\x00\x00'
+tRp188
+sS'Kent Bazemore'
+p189
+g3
+(g5
+S'\x89\x19\x03\x00\x00\x00\x00\x00'
+tRp190
+sS'Lavoy Allen'
+p191
+g3
+(g5
+S'\xea\x17\x03\x00\x00\x00\x00\x00'
+tRp192
+sS'James Harden'
+p193
+g3
+(g5
+S'\xcf\x14\x03\x00\x00\x00\x00\x00'
+tRp194
+sS'Robert Covington'
+p195
+g3
+(g5
+S'\xe8\x1a\x03\x00\x00\x00\x00\x00'
+tRp196
+sS'Nikola Jokic'
+p197
+g3
+(g5
+S'\xdf\x1c\x03\x00\x00\x00\x00\x00'
+tRp198
+sS'Nemanja Bjelica'
+p199
+g3
+(g5
+S'u\x16\x03\x00\x00\x00\x00\x00'
+tRp200
+sS'Derrick Williams'
+p201
+g3
+(g5
+S'\xba\x17\x03\x00\x00\x00\x00\x00'
+tRp202
+sS'TJ McConnell'
+p203
+g3
+(g5
+S'\xa8\x1e\x03\x00\x00\x00\x00\x00'
+tRp204
+sS'Ramon Sessions'
+p205
+g3
+(g5
+S'\xec\x11\x03\x00\x00\x00\x00\x00'
+tRp206
+sS'Enes Kanter'
+p207
+g3
+(g5
+S'\xbb\x17\x03\x00\x00\x00\x00\x00'
+tRp208
+sS'Kevin Durant'
+p209
+g3
+(g5
+S'\xb6\x11\x03\x00\x00\x00\x00\x00'
+tRp210
+sS'Dewayne Dedmon'
+p211
+g3
+(g5
+S'\xd1\x1a\x03\x00\x00\x00\x00\x00'
+tRp212
+sS'Evan Turner'
+p213
+g3
+(g5
+S'S\x16\x03\x00\x00\x00\x00\x00'
+tRp214
+sS'Bojan Bogdanovic'
+p215
+g3
+(g5
+S'\xd7\x17\x03\x00\x00\x00\x00\x00'
+tRp216
+sS'Terrence Ross'
+p217
+g3
+(g5
+S'J\x19\x03\x00\x00\x00\x00\x00'
+tRp218
+sS'Wesley Matthews'
+p219
+g3
+(g5
+S'c\x15\x03\x00\x00\x00\x00\x00'
+tRp220
+sS'Willy Hernangomez'
+p221
+g3
+(g5
+S'S\xd0\x18\x00\x00\x00\x00\x00'
+tRp222
+sS'Jahlil Okafor'
+p223
+g3
+(g5
+S'\x1f\xd0\x18\x00\x00\x00\x00\x00'
+tRp224
+sS'Troy Daniels'
+p225
+g3
+(g5
+S'@\x1b\x03\x00\x00\x00\x00\x00'
+tRp226
+sS'Malcolm Delaney'
+p227
+g3
+(g5
+S'\xda\xd3\x18\x00\x00\x00\x00\x00'
+tRp228
+sS'Gerald Henderson'
+p229
+g3
+(g5
+S'\xd9\x14\x03\x00\x00\x00\x00\x00'
+tRp230
+sS'Jamal Crawford'
+p231
+g3
+(g5
+S'\xf5\x07\x00\x00\x00\x00\x00\x00'
+tRp232
+sS'Boris Diaw'
+p233
+g3
+(g5
+S'\x04\n\x00\x00\x00\x00\x00\x00'
+tRp234
+sS'Hassan Whiteside'
+p235
+g3
+(g5
+S's\x16\x03\x00\x00\x00\x00\x00'
+tRp236
+sS'Mike Dunleavy'
+p237
+g3
+(g5
+S'_\t\x00\x00\x00\x00\x00\x00'
+tRp238
+sS'Andre Drummond'
+p239
+g3
+(g5
+S'K\x19\x03\x00\x00\x00\x00\x00'
+tRp240
+sS'Nicolas Batum'
+p241
+g3
+(g5
+S's\x13\x03\x00\x00\x00\x00\x00'
+tRp242
+sS'Tomas Satoransky'
+p243
+g3
+(g5
+S'c\x19\x03\x00\x00\x00\x00\x00'
+tRp244
+sS'Glenn Robinson'
+p245
+g3
+(g5
+S'\x92\x1c\x03\x00\x00\x00\x00\x00'
+tRp246
+sS'Patrick Patterson'
+p247
+g3
+(g5
+S'_\x16\x03\x00\x00\x00\x00\x00'
+tRp248
+sS'Austin Rivers'
+p249
+g3
+(g5
+S'M\x19\x03\x00\x00\x00\x00\x00'
+tRp250
+sS'Terry Rozier'
+p251
+g3
+(g5
+S'C\xd0\x18\x00\x00\x00\x00\x00'
+tRp252
+sS'Derrick Favors'
+p253
+g3
+(g5
+S'T\x16\x03\x00\x00\x00\x00\x00'
+tRp254
+sS'Alex Abrines'
+p255
+g3
+(g5
+S'\xfe\x1a\x03\x00\x00\x00\x00\x00'
+tRp256
+sS'Domantas Sabonis'
+p257
+g3
+(g5
+S'V\xd6\x18\x00\x00\x00\x00\x00'
+tRp258
+sS'Nerlens Noel'
+p259
+g3
+(g5
+S'\xc1\x1a\x03\x00\x00\x00\x00\x00'
+tRp260
+sS'Cody Zeller'
+p261
+g3
+(g5
+S'\xcd\x1a\x03\x00\x00\x00\x00\x00'
+tRp262
+sS'Mirza Teletovic'
+p263
+g3
+(g5
+S'\x85\x19\x03\x00\x00\x00\x00\x00'
+tRp264
+sS'Ricky Rubio'
+p265
+g3
+(g5
+S'\xd1\x14\x03\x00\x00\x00\x00\x00'
+tRp266
+sS'Kyrie Irving'
+p267
+g3
+(g5
+S'\xb9\x17\x03\x00\x00\x00\x00\x00'
+tRp268
+sS'Marcus Morris'
+p269
+g3
+(g5
+S'\xc6\x17\x03\x00\x00\x00\x00\x00'
+tRp270
+sS'Tyler Ennis'
+p271
+g3
+(g5
+S'z\x1c\x03\x00\x00\x00\x00\x00'
+tRp272
+sS'Eric Gordon'
+p273
+g3
+(g5
+S'a\x13\x03\x00\x00\x00\x00\x00'
+tRp274
+sS'Jamal Murray'
+p275
+g3
+(g5
+S'f\xd6\x18\x00\x00\x00\x00\x00'
+tRp276
+sS'Arron Afflalo'
+p277
+g3
+(g5
+S'\xcf\x11\x03\x00\x00\x00\x00\x00'
+tRp278
+sS'Jerian Grant'
+p279
+g3
+(g5
+S':\xd0\x18\x00\x00\x00\x00\x00'
+tRp280
+sS'Derrick Rose'
+p281
+g3
+(g5
+S']\x13\x03\x00\x00\x00\x00\x00'
+tRp282
+sS'Myles Turner'
+p283
+g3
+(g5
+S'7\xd0\x18\x00\x00\x00\x00\x00'
+tRp284
+sS'Monta Ellis'
+p285
+g3
+(g5
+S'\x19\x8b\x01\x00\x00\x00\x00\x00'
+tRp286
+sS'Jason Terry'
+p287
+g3
+(g5
+S'c\x07\x00\x00\x00\x00\x00\x00'
+tRp288
+sS'Marco Belinelli'
+p289
+g3
+(g5
+S'\xc6\x11\x03\x00\x00\x00\x00\x00'
+tRp290
+sS'Buddy Hield'
+p291
+g3
+(g5
+S']\xd6\x18\x00\x00\x00\x00\x00'
+tRp292
+sS'Deron Williams'
+p293
+g3
+(g5
+S'\xfa\x8a\x01\x00\x00\x00\x00\x00'
+tRp294
+sS'Thaddeus Young'
+p295
+g3
+(g5
+S'\xc0\x11\x03\x00\x00\x00\x00\x00'
+tRp296
+sS'Rudy Gobert'
+p297
+g3
+(g5
+S'\xe9\x1a\x03\x00\x00\x00\x00\x00'
+tRp298
+sS'Maurice Harkless'
+p299
+g3
+(g5
+S'R\x19\x03\x00\x00\x00\x00\x00'
+tRp300
+sS"D'Angelo Russell"
+p301
+g3
+(g5
+S',\xd0\x18\x00\x00\x00\x00\x00'
+tRp302
+sS'Tony Snell'
+p303
+g3
+(g5
+S'\xef\x1a\x03\x00\x00\x00\x00\x00'
+tRp304
+sS'Marcin Gortat'
+p305
+g3
+(g5
+S'*\x8b\x01\x00\x00\x00\x00\x00'
+tRp306
+sS'David Lee'
+p307
+g3
+(g5
+S'\x0f\x8b\x01\x00\x00\x00\x00\x00'
+tRp308
+sS'Giannis Antetokounmpo'
+p309
+g3
+(g5
+S'\xf3\x1a\x03\x00\x00\x00\x00\x00'
+tRp310
+sS'Al-Farouq Aminu'
+p311
+g3
+(g5
+S'Y\x16\x03\x00\x00\x00\x00\x00'
+tRp312
+sS'Reggie Jackson'
+p313
+g3
+(g5
+S'\xd0\x17\x03\x00\x00\x00\x00\x00'
+tRp314
+sS'Al Horford'
+p315
+g3
+(g5
+S'\xb7\x11\x03\x00\x00\x00\x00\x00'
+tRp316
+sS'Kawhi Leonard'
+p317
+g3
+(g5
+S'\xc7\x17\x03\x00\x00\x00\x00\x00'
+tRp318
+sS'Robin Lopez'
+p319
+g3
+(g5
+S'i\x13\x03\x00\x00\x00\x00\x00'
+tRp320
+sS'Al Jefferson'
+p321
+g3
+(g5
+S'\xb8\n\x00\x00\x00\x00\x00\x00'
+tRp322
+sS'Kenneth Faried'
+p323
+g3
+(g5
+S'\xce\x17\x03\x00\x00\x00\x00\x00'
+tRp324
+sS'Channing Frye'
+p325
+g3
+(g5
+S'\xf8\x8a\x01\x00\x00\x00\x00\x00'
+tRp326
+sS"Kyle O'Quinn"
+p327
+g3
+(g5
+S't\x19\x03\x00\x00\x00\x00\x00'
+tRp328
+sS'Devin Harris'
+p329
+g3
+(g5
+S'\xae\n\x00\x00\x00\x00\x00\x00'
+tRp330
+sS'Alex Len'
+p331
+g3
+(g5
+S'\xc2\x1a\x03\x00\x00\x00\x00\x00'
+tRp332
+sS'Timothe Luwawu-Cabarrot'
+p333
+g3
+(g5
+S'\x8d\xd6\x18\x00\x00\x00\x00\x00'
+tRp334
+sS'James Johnson'
+p335
+g3
+(g5
+S'\xdd\x14\x03\x00\x00\x00\x00\x00'
+tRp336
+sS'Otto Porter'
+p337
+g3
+(g5
+S'\xe2\x1a\x03\x00\x00\x00\x00\x00'
+tRp338
+sS'Amir Johnson'
+p339
+g3
+(g5
+S')\x8b\x01\x00\x00\x00\x00\x00'
+tRp340
+sS'Shelvin Mack'
+p341
+g3
+(g5
+S'\xda\x17\x03\x00\x00\x00\x00\x00'
+tRp342
+sS'Justin Anderson'
+p343
+g3
+(g5
+S'#\xd0\x18\x00\x00\x00\x00\x00'
+tRp344
+sS'Bradley Beal'
+p345
+g3
+(g5
+S'F\x19\x03\x00\x00\x00\x00\x00'
+tRp346
+sS'Garrett Temple'
+p347
+g3
+(g5
+S'R\x15\x03\x00\x00\x00\x00\x00'
+tRp348
+sS'Jeff Green'
+p349
+g3
+(g5
+S'\xb9\x11\x03\x00\x00\x00\x00\x00'
+tRp350
+sS'Klay Thompson'
+p351
+g3
+(g5
+S'\xc3\x17\x03\x00\x00\x00\x00\x00'
+tRp352
+sS'Rondae Hollis-Jefferson'
+p353
+g3
+(g5
+S'B\xd0\x18\x00\x00\x00\x00\x00'
+tRp354
+sS'Ron Baker'
+p355
+g3
+(g5
+S'n\xd6\x18\x00\x00\x00\x00\x00'
+tRp356
+sS'Montrezl Harrell'
+p357
+g3
+(g5
+S'%\xd0\x18\x00\x00\x00\x00\x00'
+tRp358
+sS'Taj Gibson'
+p359
+g3
+(g5
+S'\xe7\x14\x03\x00\x00\x00\x00\x00'
+tRp360
+sS'Gordon Hayward'
+p361
+g3
+(g5
+S'Z\x16\x03\x00\x00\x00\x00\x00'
+tRp362
+sS'Jabari Parker'
+p363
+g3
+(g5
+S'\xb1\x1c\x03\x00\x00\x00\x00\x00'
+tRp364
+sS'Rodney Hood'
+p365
+g3
+(g5
+S'\x8e\x1c\x03\x00\x00\x00\x00\x00'
+tRp366
+sS'CJ McCollum'
+p367
+g3
+(g5
+S'\xcc\x1a\x03\x00\x00\x00\x00\x00'
+tRp368
+sS'DeMarre Carroll'
+p369
+g3
+(g5
+S'\xe8\x14\x03\x00\x00\x00\x00\x00'
+tRp370
+sS'Ersan Ilyasova'
+p371
+g3
+(g5
+S'\x15\x8b\x01\x00\x00\x00\x00\x00'
+tRp372
+sS'Shaun Livingston'
+p373
+g3
+(g5
+S'\xad\n\x00\x00\x00\x00\x00\x00'
+tRp374
+sS'Noah Vonleh'
+p375
+g3
+(g5
+S'\xa7\x1c\x03\x00\x00\x00\x00\x00'
+tRp376
+sS'Stanley Johnson'
+p377
+g3
+(g5
+S'9\xd0\x18\x00\x00\x00\x00\x00'
+tRp378
+sS'Jonas Valanciunas'
+p379
+g3
+(g5
+S'\xbd\x17\x03\x00\x00\x00\x00\x00'
+tRp380
+sS'Tyus Jones'
+p381
+g3
+(g5
+S'!\xd0\x18\x00\x00\x00\x00\x00'
+tRp382
+sS'Anthony Davis'
+p383
+g3
+(g5
+S'D\x19\x03\x00\x00\x00\x00\x00'
+tRp384
+sS'Kyle Anderson'
+p385
+g3
+(g5
+S'\xa1\x1c\x03\x00\x00\x00\x00\x00'
+tRp386
+sS'Aron Baynes'
+p387
+g3
+(g5
+S'v\x1a\x03\x00\x00\x00\x00\x00'
+tRp388
+sS'Nick Young'
+p389
+g3
+(g5
+S'\xc4\x11\x03\x00\x00\x00\x00\x00'
+tRp390
+sS'Manu Ginobili'
+p391
+g3
+(g5
+S'\x92\x07\x00\x00\x00\x00\x00\x00'
+tRp392
+sS'Malcolm Brogdon'
+p393
+g3
+(g5
+S's\xd6\x18\x00\x00\x00\x00\x00'
+tRp394
+sS'PJ Tucker'
+p395
+g3
+(g5
+S'N\x10\x03\x00\x00\x00\x00\x00'
+tRp396
+sS'Ian Clark'
+p397
+g3
+(g5
+S'\x1a\x1b\x03\x00\x00\x00\x00\x00'
+tRp398
+sS'Tim Hardaway'
+p399
+g3
+(g5
+S'\xed\x1a\x03\x00\x00\x00\x00\x00'
+tRp400
+sS'Jimmy Butler'
+p401
+g3
+(g5
+S'\xd6\x17\x03\x00\x00\x00\x00\x00'
+tRp402
+sS'Kosta Koufos'
+p403
+g3
+(g5
+S'q\x13\x03\x00\x00\x00\x00\x00'
+tRp404
+sS'Courtney Lee'
+p405
+g3
+(g5
+S'p\x13\x03\x00\x00\x00\x00\x00'
+tRp406
+sS'Nikola Vucevic'
+p407
+g3
+(g5
+S'\xc8\x17\x03\x00\x00\x00\x00\x00'
+tRp408
+sS'Mario Hezonja'
+p409
+g3
+(g5
+S'a\xd0\x18\x00\x00\x00\x00\x00'
+tRp410
+sS'Luol Deng'
+p411
+g3
+(g5
+S'\xb0\n\x00\x00\x00\x00\x00\x00'
+tRp412
+sS'Darren Collison'
+p413
+g3
+(g5
+S'\xe2\x14\x03\x00\x00\x00\x00\x00'
+tRp414
+sS'Seth Curry'
+p415
+g3
+(g5
+S' \x1b\x03\x00\x00\x00\x00\x00'
+tRp416
+sS'Denzel Valentine'
+p417
+g3
+(g5
+S'l\xd6\x18\x00\x00\x00\x00\x00'
+tRp418
+sS'Blake Griffin'
+p419
+g3
+(g5
+S'\xcd\x14\x03\x00\x00\x00\x00\x00'
+tRp420
+sS'Eric Bledsoe'
+p421
+g3
+(g5
+S'c\x16\x03\x00\x00\x00\x00\x00'
+tRp422
+sS'Trey Burke'
+p423
+g3
+(g5
+S'\xf0\x1a\x03\x00\x00\x00\x00\x00'
+tRp424
+sS'Davis Bertans'
+p425
+g3
+(g5
+S'\xe2\x17\x03\x00\x00\x00\x00\x00'
+tRp426
+sS'Zaza Pachulia'
+p427
+g3
+(g5
+S'\x19\n\x00\x00\x00\x00\x00\x00'
+tRp428
+sS'Tony Allen'
+p429
+g3
+(g5
+S'\xc2\n\x00\x00\x00\x00\x00\x00'
+tRp430
+sS'Andre Roberson'
+p431
+g3
+(g5
+S'\xc4\x1a\x03\x00\x00\x00\x00\x00'
+tRp432
+sS'Jusuf Nurkic'
+p433
+g3
+(g5
+S'\xda\x1c\x03\x00\x00\x00\x00\x00'
+tRp434
+sS'Patrick McCaw'
+p435
+g3
+(g5
+S'\x7f\xd6\x18\x00\x00\x00\x00\x00'
+tRp436
+sS'Lucas Nogueira'
+p437
+g3
+(g5
+S'\xf8\x1a\x03\x00\x00\x00\x00\x00'
+tRp438
+sS'Juan Hernangomez'
+p439
+g3
+(g5
+S'\xaf\xd6\x18\x00\x00\x00\x00\x00'
+tRp440
+sS'Jonas Jerebko'
+p441
+g3
+(g5
+S'\xf5\x14\x03\x00\x00\x00\x00\x00'
+tRp442
+sS'Marvin Williams'
+p443
+g3
+(g5
+S'\xf3\x8a\x01\x00\x00\x00\x00\x00'
+tRp444
+sS'Jason Smith'
+p445
+g3
+(g5
+S'\xc8\x11\x03\x00\x00\x00\x00\x00'
+tRp446
+sS'Joe Ingles'
+p447
+g3
+(g5
+S'\x1c\x1d\x03\x00\x00\x00\x00\x00'
+tRp448
+sS'Tarik Black'
+p449
+g3
+(g5
+S'\xfc\x1c\x03\x00\x00\x00\x00\x00'
+tRp450
+sS'Dante Exum'
+p451
+g3
+(g5
+S'\xb5\x1c\x03\x00\x00\x00\x00\x00'
+tRp452
+sS'Markieff Morris'
+p453
+g3
+(g5
+S'\xc5\x17\x03\x00\x00\x00\x00\x00'
+tRp454
+sS'Tyler Johnson'
+p455
+g3
+(g5
+S'\xf4\x1c\x03\x00\x00\x00\x00\x00'
+tRp456
+sS'Salah Mejri'
+p457
+g3
+(g5
+S'\x91\xd0\x18\x00\x00\x00\x00\x00'
+tRp458
+sS'Timofey Mozgov'
+p459
+g3
+(g5
+S'\x95\x16\x03\x00\x00\x00\x00\x00'
+tRp460
+sS'Dante Cunningham'
+p461
+g3
+(g5
+S'\xef\x14\x03\x00\x00\x00\x00\x00'
+tRp462
+sS'Brandon Ingram'
+p463
+g3
+(g5
+S'^\xd6\x18\x00\x00\x00\x00\x00'
+tRp464
+sS'Mindaugas Kuzminskas'
+p465
+g3
+(g5
+S'\xcb\xd6\x18\x00\x00\x00\x00\x00'
+tRp466
+sS'Dwight Howard'
+p467
+g3
+(g5
+S'\xaa\n\x00\x00\x00\x00\x00\x00'
+tRp468
+sS'Matthew Dellavedova'
+p469
+g3
+(g5
+S'\x01\x1b\x03\x00\x00\x00\x00\x00'
+tRp470
+sS'Ben McLemore'
+p471
+g3
+(g5
+S'\xc7\x1a\x03\x00\x00\x00\x00\x00'
+tRp472
+sS'Norman Powell'
+p473
+g3
+(g5
+S'E\xd0\x18\x00\x00\x00\x00\x00'
+tRp474
+sS'Langston Galloway'
+p475
+g3
+(g5
+S'\x06\x1d\x03\x00\x00\x00\x00\x00'
+tRp476
+sS'Patty Mills'
+p477
+g3
+(g5
+S'\x04\x15\x03\x00\x00\x00\x00\x00'
+tRp478
+sS'Greg Monroe'
+p479
+g3
+(g5
+S'X\x16\x03\x00\x00\x00\x00\x00'
+tRp480
+sS'Tristan Thompson'
+p481
+g3
+(g5
+S'\xbc\x17\x03\x00\x00\x00\x00\x00'
+tRp482
+sS'Devin Booker'
+p483
+g3
+(g5
+S'4\xd0\x18\x00\x00\x00\x00\x00'
+tRp484
+sS'Shabazz Muhammad'
+p485
+g3
+(g5
+S'\xea\x1a\x03\x00\x00\x00\x00\x00'
+tRp486
+sS'Kristaps Porzingis'
+p487
+g3
+(g5
+S'\xe1\x1c\x03\x00\x00\x00\x00\x00'
+tRp488
+sS'Taurean Prince'
+p489
+g3
+(g5
+S'h\xd6\x18\x00\x00\x00\x00\x00'
+tRp490
+sS'Cristiano Felicio'
+p491
+g3
+(g5
+S'\x85\xd0\x18\x00\x00\x00\x00\x00'
+tRp492
+sS'Jon Leuer'
+p493
+g3
+(g5
+S'\xe0\x17\x03\x00\x00\x00\x00\x00'
+tRp494
+sS'Kentavious Caldwell-Pope'
+p495
+g3
+(g5
+S'\xdc\x1a\x03\x00\x00\x00\x00\x00'
+tRp496
+sS'Meyers Leonard'
+p497
+g3
+(g5
+S'N\x19\x03\x00\x00\x00\x00\x00'
+tRp498
+sS'Joe Harris'
+p499
+g3
+(g5
+S'\x95\x1c\x03\x00\x00\x00\x00\x00'
+tRp500
+sS'Justin Holiday'
+p501
+g3
+(g5
+S'\xc0\x19\x03\x00\x00\x00\x00\x00'
+tRp502
+sS'Evan Fournier'
+p503
+g3
+(g5
+S'W\x19\x03\x00\x00\x00\x00\x00'
+tRp504
+sS'Semaj Christon'
+p505
+g3
+(g5
+S'~\x1c\x03\x00\x00\x00\x00\x00'
+tRp506
+sS'Michael Beasley'
+p507
+g3
+(g5
+S'[\x13\x03\x00\x00\x00\x00\x00'
+tRp508
+sS'Willie Cauley-Stein'
+p509
+g3
+(g5
+S'1\xd0\x18\x00\x00\x00\x00\x00'
+tRp510
+sS'Bobby Portis'
+p511
+g3
+(g5
+S';\xd0\x18\x00\x00\x00\x00\x00'
+tRp512
+sS'Marreese Speights'
+p513
+g3
+(g5
+S'j\x13\x03\x00\x00\x00\x00\x00'
+tRp514
+sS'Nikola Mirotic'
+p515
+g3
+(g5
+S'\xcf\x17\x03\x00\x00\x00\x00\x00'
+tRp516
+sS'Wesley Johnson'
+p517
+g3
+(g5
+S'U\x16\x03\x00\x00\x00\x00\x00'
+tRp518
+sS'Mike Muscala'
+p519
+g3
+(g5
+S'\xe0\x1a\x03\x00\x00\x00\x00\x00'
+tRp520
+sS'CJ Watson'
+p521
+g3
+(g5
+S'\x0c\x12\x03\x00\x00\x00\x00\x00'
+tRp522
+sS'DeAndre Jordan'
+p523
+g3
+(g5
+S'\x7f\x13\x03\x00\x00\x00\x00\x00'
+tRp524
+sS'Patrick Beverley'
+p525
+g3
+(g5
+S'\xf8\x14\x03\x00\x00\x00\x00\x00'
+tRp526
+sS'Victor Oladipo'
+p527
+g3
+(g5
+S'\xf2\x1a\x03\x00\x00\x00\x00\x00'
+tRp528
+sS'Tobias Harris'
+p529
+g3
+(g5
+S'\xcb\x17\x03\x00\x00\x00\x00\x00'
+tRp530
+sS'Jordan Clarkson'
+p531
+g3
+(g5
+S'\x7f\x1c\x03\x00\x00\x00\x00\x00'
+tRp532
+sS'Goran Dragic'
+p533
+g3
+(g5
+S'\x89\x13\x03\x00\x00\x00\x00\x00'
+tRp534
+sS'Karl-Anthony Towns'
+p535
+g3
+(g5
+S'-\xd0\x18\x00\x00\x00\x00\x00'
+tRp536
+sS'Danilo Gallinari'
+p537
+g3
+(g5
+S'`\x13\x03\x00\x00\x00\x00\x00'
+tRp538
+sS'Leandro Barbosa'
+p539
+g3
+(g5
+S'\x0b\n\x00\x00\x00\x00\x00\x00'
+tRp540
+sS'Anthony Tolliver'
+p541
+g3
+(g5
+S'\r\x12\x03\x00\x00\x00\x00\x00'
+tRp542
+sS'Dorian Finney-Smith'
+p543
+g3
+(g5
+S'\xb3\xd6\x18\x00\x00\x00\x00\x00'
+tRp544
+sS'Jameer Nelson'
+p545
+g3
+(g5
+S'\xbd\n\x00\x00\x00\x00\x00\x00'
+tRp546
+sS'Lou Williams'
+p547
+g3
+(g5
+S'\x1e\x8b\x01\x00\x00\x00\x00\x00'
+tRp548
+sS'Stephen Curry'
+p549
+g3
+(g5
+S'\xd3\x14\x03\x00\x00\x00\x00\x00'
+tRp550
+sS'Dario Saric'
+p551
+g3
+(g5
+S'\xbf\x1c\x03\x00\x00\x00\x00\x00'
+tRp552
+sS'Dennis Schroder'
+p553
+g3
+(g5
+S'\xcf\x1a\x03\x00\x00\x00\x00\x00'
+tRp554
+sS'Jrue Holiday'
+p555
+g3
+(g5
+S'\xde\x14\x03\x00\x00\x00\x00\x00'
+tRp556
+sS'Terrence Jones'
+p557
+g3
+(g5
+S'U\x19\x03\x00\x00\x00\x00\x00'
+tRp558
+sS'Allen Crabbe'
+p559
+g3
+(g5
+S'\xc3\x1a\x03\x00\x00\x00\x00\x00'
+tRp560
+sS'Bismack Biyombo'
+p561
+g3
+(g5
+S'\xbf\x17\x03\x00\x00\x00\x00\x00'
+tRp562
+sS'Andrew Wiggins'
+p563
+g3
+(g5
+S'\xb0\x1c\x03\x00\x00\x00\x00\x00'
+tRp564
+sS'Clint Capela'
+p565
+g3
+(g5
+S'\xd7\x1c\x03\x00\x00\x00\x00\x00'
+tRp566
+sS'TJ Warren'
+p567
+g3
+(g5
+S'\x9d\x1c\x03\x00\x00\x00\x00\x00'
+tRp568
+sS'Caris LeVert'
+p569
+g3
+(g5
+S'c\xd6\x18\x00\x00\x00\x00\x00'
+tRp570
+sS'Gary Harris'
+p571
+g3
+(g5
+S'\x8a\x1c\x03\x00\x00\x00\x00\x00'
+tRp572
+sS'Danny Green'
+p573
+g3
+(g5
+S'\xfc\x14\x03\x00\x00\x00\x00\x00'
+tRp574
+sS'Isaiah Whitehead'
+p575
+g3
+(g5
+S'\x89\xd6\x18\x00\x00\x00\x00\x00'
+tRp576
+sS'Andre Iguodala'
+p577
+g3
+(g5
+S'\xb2\n\x00\x00\x00\x00\x00\x00'
+tRp578
+sS'Josh Richardson'
+p579
+g3
+(g5
+S'T\xd0\x18\x00\x00\x00\x00\x00'
+tRp580
+sS'Aaron Gordon'
+p581
+g3
+(g5
+S'\x9c\x1c\x03\x00\x00\x00\x00\x00'
+tRp582
+sS'Tyler Zeller'
+p583
+g3
+(g5
+S'T\x19\x03\x00\x00\x00\x00\x00'
+tRp584
+sS'Brandon Jennings'
+p585
+g3
+(g5
+S'\xd7\x14\x03\x00\x00\x00\x00\x00'
+tRp586
+sS'Russell Westbrook'
+p587
+g3
+(g5
+S'^\x13\x03\x00\x00\x00\x00\x00'
+tRp588
+sS'Paul George'
+p589
+g3
+(g5
+S'[\x16\x03\x00\x00\x00\x00\x00'
+tRp590
+sS'Jaylen Brown'
+p591
+g3
+(g5
+S'o\xd6\x18\x00\x00\x00\x00\x00'
+tRp592
+sS'Doug McDermott'
+p593
+g3
+(g5
+S'\x96\x1c\x03\x00\x00\x00\x00\x00'
+tRp594
+sS'Trey Lyles'
+p595
+g3
+(g5
+S'8\xd0\x18\x00\x00\x00\x00\x00'
+tRp596
+sS'Dirk Nowitzki'
+p597
+g3
+(g5
+S'\xb5\x06\x00\x00\x00\x00\x00\x00'
+tRp598
+sS'Luc Mbah a Moute'
+p599
+g3
+(g5
+S'\x81\x13\x03\x00\x00\x00\x00\x00'
+tRp600
+sS'Ty Lawson'
+p601
+g3
+(g5
+S'\xdf\x14\x03\x00\x00\x00\x00\x00'
+tRp602
+sS'DeMar DeRozan'
+p603
+g3
+(g5
+S'\xd6\x14\x03\x00\x00\x00\x00\x00'
+tRp604
+sS'Kelly Olynyk'
+p605
+g3
+(g5
+S'\xda\x1a\x03\x00\x00\x00\x00\x00'
+tRp606
+sS'Steven Adams'
+p607
+g3
+(g5
+S'\xec\x1a\x03\x00\x00\x00\x00\x00'
+tRp608
+sS'CJ Miles'
+p609
+g3
+(g5
+S'\x13\x8b\x01\x00\x00\x00\x00\x00'
+tRp610
+s.
