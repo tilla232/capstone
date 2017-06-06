@@ -73,11 +73,11 @@ if __name__ == '__main__':
     players = pd.DataFrame(player_dict.items(),columns=['player','id'])
 
 
-    players['rim_defense'] = players['id'].apply(lambda x: get_rim_defense(x))
+    # players['rim_defense'] = players['id'].apply(lambda x: get_rim_defense(x))
 
     players['3catch_and_shoot'] = np.nan
     players['pullupshoot'] = np.nan
     players['paint_rebounding'] = np.nan
 
     for player_id in players.id.values:
-        get_shot_stats(player_id)
+        get_rebound_stats(player_id)
