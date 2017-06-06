@@ -4,3 +4,5 @@ probb_advanced_stats.csv - Created with script ../src/probb_getadvanced.py, ProB
 
 bbref_advanced.csv - Pulled directly from basketball-reference (thank you for letting us just export csv’s!!! Advanced stats for ONLY players with >= 50 G AND >= 10 mpg in 2016 season
 
+prelim_nbastats.csv:
+‘rim_defense’ = fgdiff from 0-6 feet
