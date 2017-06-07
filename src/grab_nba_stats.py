@@ -89,5 +89,4 @@ if __name__ == '__main__':
 
     n = 0
     for player_id in players.id.values:
-        n += 1
-        get_shot_stats(player_id, n)
+        get_rebound_stats(player_id)
