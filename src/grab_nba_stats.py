@@ -19,20 +19,28 @@ def get_rim_defense(playerID):
 
 
 # FIX THIS!! if you want to populate the DF inside the function, you have to do it entry-by-entry
-def get_shot_stats(playerID):
-    num = randint(10,20)
-    print num , 'getting shooting stats!'
+def get_shot_stats(playerID,n):
+    num = randint(15,40)
+    print n , player_dict.keys()[player_dict.values().index(playerID)], 'getting shooting stats!'
     idx = players[players.id == playerID].index[0]
 
     player_shooting = nba.PlayerShotTracking(playerID).general_shooting()
 
     # catch and shoot 3 point shooting metric
     catchshoot = player_shooting[player_shooting.SHOT_TYPE == 'Catch and Shoot']
+    if catchshoot.empty:
+        players.set_value(idx,'3catch_and_shoot',0.0)
+        return
+
     catch_and_shoot3 = catchshoot.FG3A_FREQUENCY[0] * catchshoot.FG3M[0]
     players.set_value(idx,'3catch_and_shoot',catch_and_shoot3)
 
     # pull-up shooting metric
     pullups = player_shooting[player_shooting.SHOT_TYPE == 'Pull Ups']
+    if pullups.empty:
+        players.set_value(idx,'pullupshoot',0.0)
+        return
+
     pullupshoot = pullups.EFG_PCT[1] * pullups.FGA[1]
     players.set_value(idx,'pullupshoot',pullupshoot)
 
@@ -73,11 +81,13 @@ if __name__ == '__main__':
     players = pd.DataFrame(player_dict.items(),columns=['player','id'])
 
 
-    players['rim_defense'] = players['id'].apply(lambda x: get_rim_defense(x))
+    # players['rim_defense'] = players['id'].apply(lambda x: get_rim_defense(x))
 
     players['3catch_and_shoot'] = np.nan
     players['pullupshoot'] = np.nan
     players['paint_rebounding'] = np.nan
 
+    n = 0
     for player_id in players.id.values:
-        get_shot_stats(player_id)
+        n += 1
+        get_shot_stats(player_id, n)
