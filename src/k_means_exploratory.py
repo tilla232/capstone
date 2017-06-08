@@ -9,7 +9,7 @@ from functions import cluster_and_plot
 
 stats = pd.read_csv('../data/fornowstats.csv')
 stats.set_index('player',inplace=True)
-for_cluster = ['G','MP','WS','GS','MP.1','PER','3PAr','FTr','ORB%','DRB%','TRB%','AST%','STL%','BLK%','TOV%','USG%','ORtg','DRtg','OWS','DWS','WS/48','OBPM','DBPM','BPM','VORP']
+for_cluster = ['G','MP','WS','GS','MP.1','PER','3PAr','FTr','ORB%','DRB%','TRB%','AST%','STL%','BLK%','TOV%','USG%','ORtg','DRtg','OWS','DWS','WS/48','OBPM','DBPM','BPM','VORP','paint_rebounding','3catch_and_shoot','pullupshoot']
 
 X = stats[for_cluster]
 cluster_list = range(4,15)
@@ -114,7 +114,7 @@ for k,score in enumerate(scores):
 
 # Starting to get a little clarity here, it looks like k=10ish might be the sweet spot!  Let's look at some more indepth plotting - the cluster_and_plot function is taken (maybe?) from Frank Burkholder as part of his clustering lecture for Galvanize's DSI
 
-for i in cluster_list:
-    cluster_and_plot(X, i)
+# for i in cluster_list:
+#     cluster_and_plot(X, i)
 
 # We're still seeing scores level off around k=10, but graphing the scores really hammers home that our model simply isn't very good.  The silhouette scores appear too low to be fixed even by a thorough optimization of the model parameters, so it's time to search for a different model.
